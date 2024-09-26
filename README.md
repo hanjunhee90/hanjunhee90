@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align= "center">
-  <h1 style="font-size: 40px;">똥꼬 발랄 규영이의 IT개발자 여정</h1>
+  <h1 style="font-size: 40px;">안녕하세요</h1>
 </div>
 <div align="center">
 <img width="80%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
