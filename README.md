@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/hanjunhee90/Imgrefo/main/web-development-8734249_640.png" alt="Web Development Image">
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github;Have+a+nice+day!!)](https://git.io/typing-svg)
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚕🚙&fontAlign=70)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=3000&pause=1000&color=FFA07A&background=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github!;I+love+coding!;Let's+create+something+amazing!)](https://git.io/typing-svg)
+
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=150&animation=twinkling&section=header&text=🚀+Welcome+to+My+Profile!+🚀&fontSize=40&fontAlignY=35&desc=Enjoy+the+ride!&descAlignY=60&descAlign=50)
 
 <div style="text-align: center;">
   <h1 style="font-size: 40px;">📚 STACKS 📚</h1>
