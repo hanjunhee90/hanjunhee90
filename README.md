@@ -1,4 +1,4 @@
-## Hi there 👋
+## Please come in, make yourself comfortable! 👋
 
 <!--
 **hanjunhee90/hanjunhee90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align= "center">
-  <h1 style="font-size: 40px;">안녕하세요 ~_~ </h1>
-</div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/hanjunhee90/Imgrefo/main/web-development-8734249_640.png" alt="Web Development Image">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github;Have+a+nice+day!!)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚕🚙&fontAlign=70)
 
