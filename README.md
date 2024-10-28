@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/hanjunhee90/Imgrefo/main/web-development-8734249_640.png" alt="Web Development Image">
+
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github;Have+a+nice+day!!)](https://git.io/typing-svg)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=120&animation=fadeIn&section=footer&text=🚗🚕🚙&fontAlign=70)
 
