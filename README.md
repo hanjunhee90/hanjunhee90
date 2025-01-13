@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/hanjunhee90/Imgrefo/main/web-development-8734249_640.png" alt="Web Development Image" width="70%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=3000&pause=1000&color=F59E42&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Hello+World!+👋;I'm+JunHee!+💻;Junior+Developer+who+loves+to+code!;Let's+create+something+amazing!+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&duration=3000&pause=1000&color=F59E42&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+coding+playground!+🎮;I'm+JunHee,+a+passionate+coder!+💻;Coding+is+fun,+let's+build+together!+✨;Dive+into+my+world+of+tech!+🌐)](https://git.io/typing-svg)
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&animation=twinkling&section=header&text=🚀+Welcome+to+My+Profile!+🚀&fontSize=50&fontAlignY=40&desc=Enjoy+the+ride!&descAlignY=70&descAlign=50)
 
@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 </div>
 
 <div align="center">
